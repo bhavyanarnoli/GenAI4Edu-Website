@@ -5,6 +5,6 @@ pip install -r requirement.txt
 ```
 After that open ```Home.py``` file, and run the following code:
 ```
-streamlit run "path_to_folder/Home.py
+streamlit run "path_to_folder/Home.py"
 ```
 The webiste runs on a local host.
